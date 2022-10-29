@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="desc_app">desc_app</string>
+    <string name="play">play</string>
+    <string name="Start">Start</string>
+    <string name="enter_a_nickname">Enter a Nickname</string>
+    <string name="please_field_your_nickname">please_field_your_nickname</string>
+    <string name="desc_apps">ini adalah sebuah aplikasi kuis tidak berguna</string>
+    <string name="default_index">-/-</string>
+    <string name="default_text">-</string>
+    <string name="your_score">Your Score</string>
+    <string name="done">Done</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="message_exit">If your click yes, your data will be destroy</string>
+    <string name="no">no</string>
+    <string name="massage_input_data">You will input this data</string>
+    <string name="yes">Yes</string>
+</resources>
